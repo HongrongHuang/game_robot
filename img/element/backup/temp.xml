@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<root>
+	<screen_list>
+		<screen name="logout_main_win_3">
+			<screen_id>
+				1
+			</screen_id>
+			<image>
+				<image_id>
+					1
+				</image_id>
+				<position>
+					<x>
+						532
+					</x>
+					<y>
+						651
+					</y>
+				</position>
+				<image_path>
+					img//element//login//logout_main_win_3_0.png
+				</image_path>
+			</image>
+			<image>
+				<image_id>
+					2
+				</image_id>
+				<position>
+					<x>
+						645
+					</x>
+					<y>
+						764
+					</y>
+				</position>
+				<image_path>
+					img//element//login//logout_main_win_3_1.png
+				</image_path>
+			</image>
+		</screen>
+	</screen_list>
+</root>

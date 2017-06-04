@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<root>
+	<screen_list>
+		<screen name="temp_0">
+			<screen_id>
+				1
+			</screen_id>
+			<image>
+				<image_id>
+					1
+				</image_id>
+				<position>
+					<x>
+						690
+					</x>
+					<y>
+						452
+					</y>
+				</position>
+				<image_path>
+					img//element//temp//event_maitili_3_0.png
+				</image_path>
+			</image>
+			<image>
+				<image_id>
+					2
+				</image_id>
+				<position>
+					<x>
+						727
+					</x>
+					<y>
+						453
+					</y>
+				</position>
+				<image_path>
+					img//element//temp//event_maitili_3_1.png
+				</image_path>
+			</image>
+		</screen>
+	</screen_list>
+</root>

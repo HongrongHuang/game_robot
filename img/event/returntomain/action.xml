@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<root>
+	<event>
+		<action>
+			<identity>
+				1
+			</identity>
+			<art>
+				img_pos_act
+			</art>
+			<position>
+				<x>
+					108
+				</x>
+				<y>
+					82
+				</y>
+			</position>
+			<image>
+				img//event//returntomain//action1.png
+			</image>
+			<time>
+				<action_time>
+					1000
+				</action_time>
+				<response_time>
+					1000
+				</response_time>
+			</time>
+		</action>
+	</event>
+</root>

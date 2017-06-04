@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<root>
+	<screen_list>
+		<screen name="shangren_dijing_main_win_0">
+			<screen_id>
+				1
+			</screen_id>
+			<image>
+				<image_id>
+					1
+				</image_id>
+				<position>
+					<x>
+						625
+					</x>
+					<y>
+						167
+					</y>
+				</position>
+				<image_path>
+					img//element//temp//shangren_dijing_0_0.png
+				</image_path>
+			</image>
+			<image>
+				<image_id>
+					2
+				</image_id>
+				<position>
+					<x>
+						695
+					</x>
+					<y>
+						154
+					</y>
+				</position>
+				<image_path>
+					img//element//temp//shangren_dijing_0_1.png
+				</image_path>
+			</image>
+		</screen>
+	</screen_list>
+</root>
